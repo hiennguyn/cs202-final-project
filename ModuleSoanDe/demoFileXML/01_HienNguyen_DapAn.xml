@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Info id="01" num="8" name="Hien Nguyen" date="12/9/2021 2:23:07 AM">
+  <question content="Những thiết bị nào sau đây được xếp vào nhóm thiết bị nội vi?">
+    <answer>HDD, CD- ROM Drive, FDD, Keyboard</answer>
+  </question>
+  <question content="Hệ điều hành mã nguồn mở thông dụng nhất hiện nay là?">
+    <answer>Linux</answer>
+  </question>
+  <question content="Thiết bị nào sau đây có tốc độ truy xuất dữ liệu nhanh nhất?">
+    <answer>RAM</answer>
+  </question>
+  <question content="RAM là viết tắt của cụm từ">
+    <answer>Random Access Memory</answer>
+  </question>
+  <question content="Chuột không dây sử dụng công nghệ nào để kết nối tín hiệu với máy tính?">
+    <answer>Bluetooth</answer>
+  </question>
+  <question content="Bộ nhớ đệm trong CPU được gọi là">
+    <answer>Cache</answer>
+  </question>
+  <question content="Các đơn vị lưu trữ thông tin của máy tính là?">
+    <answer>Boolean, Byte, MB</answer>
+  </question>
+  <question content="Modem gắn ngoài được kết nối với máy tính thông qua cổng nào sau đây?">
+    <answer>RJ 45</answer>
+  </question>
+</Info>

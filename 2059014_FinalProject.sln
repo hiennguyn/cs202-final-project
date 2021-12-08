@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleSoanDe", "ModuleSoanDe\ModuleSoanDe.csproj", "{0DB0AF4F-054A-433F-AD83-1648F1208963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleThiTracNghiem", "ModuleThiTracNghiem\ModuleThiTracNghiem.csproj", "{2A8A5598-DD10-4266-8C6D-0258CEB0D612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DB0AF4F-054A-433F-AD83-1648F1208963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB0AF4F-054A-433F-AD83-1648F1208963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB0AF4F-054A-433F-AD83-1648F1208963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB0AF4F-054A-433F-AD83-1648F1208963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8A5598-DD10-4266-8C6D-0258CEB0D612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8A5598-DD10-4266-8C6D-0258CEB0D612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8A5598-DD10-4266-8C6D-0258CEB0D612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8A5598-DD10-4266-8C6D-0258CEB0D612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A3D7BCA-85ED-4536-9C47-C74E20A12B92}
+	EndGlobalSection
+EndGlobal

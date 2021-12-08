@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<De id="01" month="12" year="2021" num="8">
+  <question correct="Mainboard, CPU, CD-ROM Drive, RAM" content="Những thiết bị nào sau đây được xếp vào nhóm thiết bị nội vi?">
+    <A>Mainboard, CPU, CD-ROM Drive, Mouse</A>
+    <B>Mainboard, CPU, CD-ROM Drive, RAM</B>
+    <C>HDD, CD- ROM Drive, FDD, Keyboard</C>
+    <D>Monitor, Keyboard, Mouse, Scanner</D>
+  </question>
+  <question correct="Linux" content="Hệ điều hành mã nguồn mở thông dụng nhất hiện nay là?">
+    <A>Mac</A>
+    <B>Windows Vista</B>
+    <C>Windows XP</C>
+    <D>Linux</D>
+  </question>
+  <question correct="RAM" content="Thiết bị nào sau đây có tốc độ truy xuất dữ liệu nhanh nhất?">
+    <A>Flash memory</A>
+    <B>RAM</B>
+    <C>HDD</C>
+    <D>CD-ROM drive</D>
+  </question>
+  <question correct="Random Access Memory" content="RAM là viết tắt của cụm từ">
+    <A>Read Access Memory</A>
+    <B>Recent Access Memory</B>
+    <C>Random Access Memory</C>
+    <D>Read And Modify</D>
+  </question>
+  <question correct="Bluetooth" content="Chuột không dây sử dụng công nghệ nào để kết nối tín hiệu với máy tính?">
+    <A>Infrared</A>
+    <B>Bluetooth</B>
+    <C>WiFi</C>
+    <D>WiMax</D>
+  </question>
+  <question correct="Cache" content="Bộ nhớ đệm trong CPU được gọi là">
+    <A>ROM</A>
+    <B>DRAM</B>
+    <C>Cache</C>
+    <D>Buffer</D>
+  </question>
+  <question correct="Bit, Byte, KB, MB, GB" content="Các đơn vị lưu trữ thông tin của máy tính là?">
+    <A>Bit, Byte, KB, MB, GB</A>
+    <B>Boolean, Byte, MB</B>
+    <C>Bit, Byte, KG, Mb, Gb</C>
+    <D>Đĩa cứng, bộ nhớ</D>
+  </question>
+  <question correct="COM" content="Modem gắn ngoài được kết nối với máy tính thông qua cổng nào sau đây?">
+    <A>COM</A>
+    <B>LPT</B>
+    <C>IEEE 1394</C>
+    <D>RJ 45</D>
+  </question>
+</De>
