@@ -31,7 +31,7 @@ namespace ModuleSoanDe
                 f.Show();
             }
             else
-                MessageBox.Show("Invalid username or password","Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
+                MessageBox.Show("Invalid username or password", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             
         }
 

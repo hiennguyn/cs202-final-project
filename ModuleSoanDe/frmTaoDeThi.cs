@@ -414,5 +414,21 @@ namespace ModuleSoanDe
             randomList();
             SortOrder();
         }
+
+        private void cmbNam_KeyUp(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                if (cmbNam.Text != string.Empty)
+                {
+                    for (int i = 0; i < cmbNam.Items.Count; i++)
+                    {
+                        if (cmbNam.Text == cmbNam.Items[i].ToString())
+                            return;
+                    }
+                    cmbNam.Items.Add(cmbNam.Text);
+                }
+            }
+        }
     }
 }

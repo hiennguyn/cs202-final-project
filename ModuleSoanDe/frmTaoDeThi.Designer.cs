@@ -93,6 +93,7 @@ namespace ModuleSoanDe
             this.cmbNam.Name = "cmbNam";
             this.cmbNam.Size = new System.Drawing.Size(155, 28);
             this.cmbNam.TabIndex = 3;
+            this.cmbNam.KeyUp += new System.Windows.Forms.KeyEventHandler(this.cmbNam_KeyUp);
             // 
             // cmbThang
             // 
