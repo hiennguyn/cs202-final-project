@@ -23,8 +23,7 @@ namespace ModuleSoanDe
         {
             f.TopLevel = false;
             panelMain.Controls.Add(f);
-            panelMain.Tag = f;
-
+            
             f.FormBorderStyle = FormBorderStyle.None;
             f.Dock = DockStyle.Fill;
             f.BringToFront();
