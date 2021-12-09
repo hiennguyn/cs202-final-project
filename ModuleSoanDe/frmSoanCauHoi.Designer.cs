@@ -247,7 +247,6 @@ namespace ModuleSoanDe
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("MS Reference Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-           
             this.label1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.label1.Location = new System.Drawing.Point(31, 28);
             this.label1.Name = "label1";
@@ -278,6 +277,7 @@ namespace ModuleSoanDe
             this.lbNganHangCauHoi.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.lbNganHangCauHoi.BackColor = System.Drawing.Color.Lavender;
             this.lbNganHangCauHoi.FormattingEnabled = true;
             this.lbNganHangCauHoi.ItemHeight = 20;
             this.lbNganHangCauHoi.Location = new System.Drawing.Point(31, 138);
