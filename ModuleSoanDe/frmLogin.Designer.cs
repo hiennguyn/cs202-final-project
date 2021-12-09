@@ -121,7 +121,7 @@ namespace ModuleSoanDe
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(598, 338);
+            this.ClientSize = new System.Drawing.Size(585, 319);
             this.Controls.Add(this.checkBoxHide);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnLogin);

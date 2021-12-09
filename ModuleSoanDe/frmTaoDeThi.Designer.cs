@@ -79,6 +79,7 @@ namespace ModuleSoanDe
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("MS Reference Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(45)))), ((int)(((byte)(78)))));
             this.label7.Location = new System.Drawing.Point(22, 11);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(200, 23);
@@ -142,6 +143,7 @@ namespace ModuleSoanDe
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("MS Reference Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(45)))), ((int)(((byte)(78)))));
             this.label1.Location = new System.Drawing.Point(83, 20);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(178, 23);
@@ -305,6 +307,7 @@ namespace ModuleSoanDe
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("MS Reference Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(45)))), ((int)(((byte)(78)))));
             this.label5.Location = new System.Drawing.Point(19, 335);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(87, 23);
