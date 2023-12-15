@@ -28,7 +28,7 @@ Chương trình bao gồm:
 * Thí sinh sau khi nhận đề dưới dạng file xml sẽ tải lên để thi trắc nghiệm. Chương trình hỗ trợ di chuyển tới lui giữa các câu hỏi và có bảng tình trạng câu hỏi biểu thị bằng màu sắc để thí sinh lưu ý các câu đã làm, chưa làm và cần xem lại  
 * Ứng dụng bao gồm đồng hồ đếm ngược thời gian làm bài căn cứ theo số lượng câu hỏi (15s/1 câu) và sẽ tự động lưu file đáp án dưới địng dạng xml khi hết giờ làm bài
   
-*![Module Thi](https://drive.google.com/file/d/1-_7Xp7RPHlErQoiPK9ur9mpKhR5uFyY3/view?usp=drive_link)
+![Module Thi](https://drive.google.com/file/d/1-_7Xp7RPHlErQoiPK9ur9mpKhR5uFyY3/view?usp=sharing)
 
 4. Chấm bài  
 * Các file đáp án của thí sinh sẽ được bỏ trong một thư mục và tải lên để tính điểm. Thông tin thí sinh,mã đề, ngày giờ nộp bài, số lượng câu đúng, điểm được qui đổi trên thang 10 sẽ được lưu dưới dạng file txt và sắp xếp theo thứ tự điểm giảm dần  
