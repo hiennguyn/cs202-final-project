@@ -1,4 +1,4 @@
-# 2059014_FinalProject 
+# Ứng dụng thi và soạn đề trắc nghiệm
 Giới thiệu: Đây là ứng dụng thi và soạn đề trắc nghiệm nhầm kiếm tra kiến thức của một công ty công nghệ thông tin được thực hiện bằng ngôn ngữ C#. Ứng dụng là đồ án cuối kỳ môn Advanced-Object Oriented Programming. 
 
 Chương trình bao gồm:  
